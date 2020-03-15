@@ -1,6 +1,6 @@
 # Capstone-2
 
-Project Title
+Project Title - 
 The Simpsons: Predicting episode ratings using episode scripts.
 
 Capstone Reports:
