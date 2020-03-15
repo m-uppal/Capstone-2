@@ -8,4 +8,8 @@ Milestone 1 Report
 
 Milestone 2 Report
 
+Capstone 2: Final Report
+
+Slide Deck
+
 Code
